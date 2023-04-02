@@ -10,8 +10,7 @@ const config = {
   tagline: '',
   favicon: 'img/favicon.ico',
 
-  // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://lorenzo-arena.github.io',
 
   organizationName: 'lorenzo-arena',
   projectName: 'lorenzo-arena.github.io',

@@ -59,7 +59,7 @@ const config = {
           src: 'img/closing-the-loop.png',
         },
         items: [
-            {to: '/', label: 'Blog', position: 'left'},
+            {to: '/', label: 'Blog', position: 'left', activeBaseRegex: '^[\/]?$'},
             {to: 'about', label: 'About', position: 'left'},
         ],
       },

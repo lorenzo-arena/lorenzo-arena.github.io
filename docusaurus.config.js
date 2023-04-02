@@ -59,6 +59,8 @@ const config = {
           src: 'img/closing-the-loop.png',
         },
         items: [
+            {to: '/', label: 'Blog', position: 'left'},
+            {to: 'about', label: 'About', position: 'left'},
         ],
       },
       footer: {

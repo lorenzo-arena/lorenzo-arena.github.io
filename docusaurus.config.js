@@ -14,7 +14,9 @@ const config = {
   url: 'https://your-docusaurus-test-site.com',
 
   organizationName: 'lorenzo-arena',
-  projectName: 'closing-the-loop',
+  projectName: 'lorenzo-arena.github.io',
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
   baseUrl: '/',
 
   onBrokenLinks: 'throw',

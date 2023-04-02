@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclosing_the_loop_2=self.webpackChunkclosing_the_loop_2||[]).push([[712],{661:l=>{l.exports=JSON.parse('{"label":"linux","permalink":"/tags/linux","allTagsPath":"/tags","count":1}')}}]);

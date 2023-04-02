@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclosing_the_loop_2=self.webpackChunkclosing_the_loop_2||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First steps with kas","permalink":"/first-steps-kas"},{"title":"Git Subtree","permalink":"/git-subtree"}]}')}}]);

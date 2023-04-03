@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkclosing_the_loop_2=self.webpackChunkclosing_the_loop_2||[]).push([[932],{1933:s=>{s.exports=JSON.parse('{"label":"kas","permalink":"/tags/kas","allTagsPath":"/tags","count":1}')}}]);

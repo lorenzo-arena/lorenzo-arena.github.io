@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklorenzo_arena_github_io=self.webpackChunklorenzo_arena_github_io||[]).push([[273],{2409:e=>{e.exports=JSON.parse('{"label":"gamedev","permalink":"/blog/tags/gamedev","allTagsPath":"/blog/tags","count":1}')}}]);

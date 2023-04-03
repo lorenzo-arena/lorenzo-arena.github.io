@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklorenzo_arena_github_io=self.webpackChunklorenzo_arena_github_io||[]).push([[195],{2841:(e,n,r)=>{r.r(n),r.d(n,{default:()=>o});var t=r(7294),a=r(6550);function o(){return t.createElement(a.l_,{to:"/blog"})}}}]);

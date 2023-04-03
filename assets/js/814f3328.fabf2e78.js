@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklorenzo_arena_github_io=self.webpackChunklorenzo_arena_github_io||[]).push([[535],{5641:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Creating 2D wind trails in Godot","permalink":"/godot-wind-trails"},{"title":"First steps with kas","permalink":"/first-steps-kas"},{"title":"Git Subtree","permalink":"/git-subtree"}]}')}}]);

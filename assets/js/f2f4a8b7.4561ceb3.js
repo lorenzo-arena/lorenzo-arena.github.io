@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklorenzo_arena_github_io=self.webpackChunklorenzo_arena_github_io||[]).push([[383],{3182:a=>{a.exports=JSON.parse('{"label":"yocto","permalink":"/blog/tags/yocto","allTagsPath":"/blog/tags","count":1}')}}]);

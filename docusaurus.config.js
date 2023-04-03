@@ -37,7 +37,7 @@ const config = {
         docs: false,
         blog: {
           showReadingTime: true,
-          routeBasePath: '/',
+          routeBasePath: '/blog',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -58,7 +58,7 @@ const config = {
           src: 'img/closing-the-loop.png',
         },
         items: [
-            {to: '/', label: 'Blog', position: 'left', activeBaseRegex: '^[\/]?$'},
+            {to: 'blog', label: 'Blog', position: 'left'},
             {to: 'about', label: 'About', position: 'left'},
         ],
       },

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklorenzo_arena_github_io=self.webpackChunklorenzo_arena_github_io||[]).push([[109],{4560:e=>{e.exports=JSON.parse('{"label":"kernel","permalink":"/blog/tags/kernel","allTagsPath":"/blog/tags","count":1}')}}]);
